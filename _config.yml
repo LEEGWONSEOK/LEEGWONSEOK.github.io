@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Two games After work"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "leegwonseok"
+description              : "studying design & data."
 url                      : "https://leegwonseok.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/LEEGWONSEOK"  # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
