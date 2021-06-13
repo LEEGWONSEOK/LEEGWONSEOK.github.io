@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이권석"
-  avatar           : "/assets/images/bio-photo.jpeg"    # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"    # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Studying **Design** & **Data**"
   location         : "Busan,Korea"
   email            :
