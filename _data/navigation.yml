@@ -1,9 +1,6 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  
-  - title: "About"
+  - title: "Quick-Start Guide"
     url: https://www.notion.so/leegwonseok/Back-End-Engineer-a003a357daac4d26bb56abe304e824f4
 
   # - title: "About"
@@ -14,5 +11,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-  docs:
