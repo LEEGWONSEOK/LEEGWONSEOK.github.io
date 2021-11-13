@@ -11,3 +11,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+# 새로 만드는 중
+docs:
+  - title: 카테고리
+    children:
+    - title: "JavaScript"
+      url: /javascript/
+    - title: "Algorithm"
+      url: /algorithm/
